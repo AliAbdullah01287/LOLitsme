@@ -1,0 +1,5 @@
+{
+	"ip":"ActiveSquadG3oj.aternos.me",
+	"port": "50418",
+	"name": "ActiveBot"
+}
